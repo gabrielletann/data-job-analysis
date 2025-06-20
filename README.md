@@ -67,7 +67,7 @@ To identify the highest-paying skills for data analysts, I joined job postings w
 
 ---
 
-## 💼 2. Top-Paying Data Analyst Jobs
+## 💼 2. Top-Paying Data Analyst Jobs (Filtered by Remote)
 
 📄 [View SQL](project_sql/top_paying_jobs.sql)
 

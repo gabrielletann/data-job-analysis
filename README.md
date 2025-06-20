@@ -20,8 +20,18 @@ In a fast-evolving data industry, staying competitive means choosing the right t
 
 ## 🛠 Tools Used
 
-- **VS Code**: For writing and executing SQL queries
-- **PostgreSQL-style SQL**: Used for compatibility and readability
+- **SQL**: Used extensively to query, join, clean, and analyze relational job postings data. All insights were derived from SQL-based exploration.
+
+- **PostgreSQL**:
+Served as the database management system (DBMS) for storing and querying the dataset. Its robust support for complex joins and aggregations made it ideal for analysis.
+
+- **Visual Studio Code**:
+The main code editor for writing, debugging, and iterating on SQL queries. Paired with SQL extensions to streamline workflow.
+
+- **Git & GitHub**:
+Used for version control, collaboration, and documentation. Tracked iterations of SQL files and enabled clean project sharing.
+
+
 
 ---
 

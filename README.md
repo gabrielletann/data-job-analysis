@@ -6,18 +6,6 @@ By querying a structured job postings dataset, I analyzed patterns in salaries, 
 
 ---
 
-## 📌 Table of Contents
-- [Introduction](#introduction)
-- [Tools Used](#tools-used)
-- [1. Top Skills Based on Salary](#1-top-skills-based-on-salary)
-- [2. Top-Paying Data Analyst Jobs](#2-top-paying-data-analyst-jobs)
-- [3. Skills Required by Top-Paying Jobs](#3-skills-required-by-top-paying-jobs)
-- [4. Most In-Demand Skills](#4-most-in-demand-skills)
-- [5. Optimal Skills to Learn](#5-optimal-skills-to-learn)
-- [Conclusion](#conclusion)
-
----
-
 ## 📌 Introduction
 
 In a fast-evolving data industry, staying competitive means choosing the right tools to learn—and understanding what employers are really looking for. This analysis focuses on answering five key questions about the data analyst job market:
